@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@apollo/server": "^4.7.4",
+    "graphql": "^16.7.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.22"
+  },
+  "name": "simpleblog",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
